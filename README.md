@@ -116,7 +116,7 @@ Spatial Intelligence: GPS/GIS integration is needed to adjust rent based on spec
 
 ---
 
-##⚖️ Disclaimer
+## ⚖️ Disclaimer
 **Educational Use Only:** This is an independent Data Science portfolio project created strictly for educational and demonstration purposes.
 
 **No Affiliation:** I am not affiliated with WestProp Holdings, Terrace Africa, or TIGERE REIT. All financial figures, rental assumptions, cap rates, and construction estimates are hypothetical simulations used to demonstrate financial modeling capabilities.
