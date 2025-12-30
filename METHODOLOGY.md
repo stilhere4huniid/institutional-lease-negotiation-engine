@@ -38,8 +38,7 @@ We measured the **Capture Rate** (Final Rent / Target Rent) to quantify pricing 
 | **WestProp Holdings** | Mixed-Use | **0.9746** (97.5%) | Low elasticity. Premium assets retain value despite market pressure. |
 | **WestProp Holdings** | Residential (Premium) | **0.9743** (97.4%) | "Safe Haven" status allows for near-target closing prices. |
 
-![Closing Rate Analysis](assets/closing_rates_chart.png) *[Placeholder: Add your Average Closing Rates screenshot here]*
-
+![Closing Rate Analysis](assets/closing_rates_chart.png) 
 ---
 
 ### B. What Drives the Rent? (Feature Importance)
@@ -56,7 +55,7 @@ We analyzed the Random Forest model to determine which variables had the biggest
 * `Tenant_Credit`: **0.000852**
 * `Market_Vacancy`: **0.000670**
 
-![Feature Importance Chart](assets/feature_importance.png) *[Placeholder: Add your Feature Importance screenshot here]*
+![Feature Importance Chart](assets/feature_importance.png) 
 
 ---
 
@@ -69,4 +68,4 @@ To validate the divergence logic, we ran a baseline comparison with identical in
 
 This **15% Spread** confirms that the engine does not treat all square meters equally. It successfully differentiates between the "Capital Value" approach of WestProp and the "Occupancy Volume" approach of Terrace Africa.
 
-![Prediction Comparison](assets/prediction_divergence.png) *[Placeholder: Add your General Predictions screenshot here]*
+![Prediction Comparison](assets/prediction_divergence.png) 
